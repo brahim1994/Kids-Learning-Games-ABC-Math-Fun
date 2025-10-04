@@ -1,0 +1,11 @@
+{
+  "ironsource_app_key": "xxxxxxxxxxxxxxxxxx",
+  "ironsource_interstitial_unit_id": "DefaultInterstitial",
+  "ironsource_rewarded_unit_id": "DefaultRewardedVideo",
+  "banner_unit_id": "DefaultBannerPlacement",    
+  "banner_enabled": true,
+  "home_url": "https://brahim1994.github.io/Kids-Learning-Games-ABC-Math-Fun/",
+  "clicks_before_interstitial": 3,
+  "show_ads": true
+}
+
